@@ -6,7 +6,7 @@
 
 ## Description
 
-Hiking journal that allows for noting trails the user has hiked or wants to hike, and create a journal entry with notes about the trail. Incorporates widgets from REI's Hiking Project: https://www.hikingproject.com 
+Hiking journal that allows for noting trails the user has hiked or wants to hike, and create a journal entry with notes about the trail. Incorporates widgets from REI's Hiking Project: https://www.hikingproject.com
 
 
 
@@ -54,7 +54,16 @@ Hiking journal that allows for noting trails the user has hiked or wants to hike
 |  update trail entry properties  |  "new content"  |  location: "new content"  |
 |  delete trail by id  |  delete trail entry ID# 2  |  all trails list: ID# 1, ID# 3  |
 
+## Design
+![Homepage screenshot](/src/main/resources/public/images/971HikeHomepage.jpg "Hompage")
 
+![Find a trail screenshot](/src/main/resources/public/images/971HikeAddPage.jpg "Add a new trail to your trail diary, screenshot")
+
+![Surprise Me screenshot](/src/main/resources/public/images/971HikeSurpriseMeAddPage.jpg "Random trail generator version of the add trail page")
+
+![Trail list screenshot](/src/main/resources/public/images/971HikeTrailListPage.jpg "List of your saved trails")
+
+![Trail diary screenshot](/src/main/resources/public/images/971HikeTrailLogPage.jpg "Example trail diary with all the user's data and reviews")
 
 
 ## Technologies Used
